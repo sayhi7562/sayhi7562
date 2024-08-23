@@ -26,7 +26,7 @@ Student at Computer Engineering And Digital Technology ([CEDT](https://github.co
 - GitHub: [sayhi7562]([#contact](https://github.com/sayhi7562))
 
 
-[![sayhi7562 GitHub stats](https://github-readme-stats.vercel.app/api?username=sayhi7562)]
+![sayhi7562 GitHub stats](https://github-readme-stats.vercel.app/api?username=sayhi7562)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sayhi7562)](https://codeforces.com/profile/sayhi7562)
 
