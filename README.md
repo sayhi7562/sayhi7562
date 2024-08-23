@@ -10,6 +10,7 @@
 
 <div>
 <img src="https://media.tenor.com/hZhSo1hoEokAAAAi/line-friends-brown-bear.gif" width="150" height="210" />
+&nbsp;
 <img src="https://i.pinimg.com/originals/63/c8/cc/63c8cc9e69d5f96a5ba105aaaaf8c8e2.gif" width="260" height="210" /> 
 </div>
 
