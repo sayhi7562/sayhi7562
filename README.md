@@ -46,7 +46,7 @@
   </a>
 
   <a href="https://codeforces.com/profile/sayhi7562">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sayhi7562&theme=algolia" width="400" height="200" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sayhi7562&theme=algolia" width="400" height="250" alt="Codeforces Stats" />
   </a>
 </div>
 
