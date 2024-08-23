@@ -4,7 +4,7 @@
 
 ### Hi👋
 
-### **I'm Watcharawit Pratpiamsuk (Sayhi) 😊**
+### I'm **Watcharawit Pratpiamsuk (Sayhi) 😊**
 
 #### 🧑‍🎓Student at Computer Engineering And Digital Technology ([CEDT](https://github.com/CEDT-Chula)) Chulalongkorn University
 
