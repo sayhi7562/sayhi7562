@@ -7,7 +7,7 @@ Hi👋
 Student at Computer Engineering And Digital Technology ([CEDT](https://github.com/CEDT-Chula)) Chulalongkorn University
 
 
-<img src="https://media.tenor.com/hZhSo1hoEokAAAAi/line-friends-brown-bear.gif" width="150" height="200" />
+<img src="https://media.tenor.com/hZhSo1hoEokAAAAi/line-friends-brown-bear.gif" width="150" height="210" />
 
 ## My Skills
 
@@ -28,7 +28,7 @@ Student at Computer Engineering And Digital Technology ([CEDT](https://github.co
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 <a href="https://github.com/sayhi7562">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayhi7562" width="300" height="200" alt="sayhi7562 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayhi7562" width="400" height="200" alt="sayhi7562 GitHub stats" />
   <a href="https://codeforces.com/profile/sayhi7562">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sayhi7562" width="400" height="200" alt="Codeforces Stats" />
   </a>
