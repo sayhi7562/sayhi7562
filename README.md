@@ -1,10 +1,12 @@
 # Welcome to my Profile 🎉
 
-Hi👋
+![badgecedt](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg?raw=ture)
 
-**I'm Watcharawit Pratpiamsuk (Sayhi) 😊**
+### Hi👋
 
-Student at Computer Engineering And Digital Technology ([CEDT](https://github.com/CEDT-Chula)) Chulalongkorn University
+### **I'm Watcharawit Pratpiamsuk (Sayhi) 😊**
+
+#### 🧑‍🎓Student at Computer Engineering And Digital Technology ([CEDT](https://github.com/CEDT-Chula)) Chulalongkorn University
 
 
 <img src="https://media.tenor.com/hZhSo1hoEokAAAAi/line-friends-brown-bear.gif" width="150" height="210" />
@@ -23,7 +25,8 @@ Student at Computer Engineering And Digital Technology ([CEDT](https://github.co
 - And more :)
 
 ## Contact
-- GitHub: [sayhi7562]([#contact](https://github.com/sayhi7562))
+- GitHub: [sayhi7562](https://github.com/sayhi7562)
+  
 
 
 <div style="display: flex; flex-direction: column; align-items: center;">
@@ -35,4 +38,4 @@ Student at Computer Engineering And Digital Technology ([CEDT](https://github.co
 </div>
 
 
-don't clike [it](https://cdn.discordapp.com/attachments/1263741140427997210/1276438118500667392/dae.png?ex=66c98722&is=66c835a2&hm=5449148171ae4319f883676f23164d2d76b835f36fc277e76a9907e6321d7529&)
+don't click [it](https://cdn.discordapp.com/attachments/1263741140427997210/1276438118500667392/dae.png?ex=66c98722&is=66c835a2&hm=5449148171ae4319f883676f23164d2d76b835f36fc277e76a9907e6321d7529&) :)
