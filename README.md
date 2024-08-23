@@ -30,7 +30,7 @@
   
 
 
-## Just my stats.
+## Just my stats
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/sayhi7562">
