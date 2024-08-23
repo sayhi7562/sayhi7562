@@ -26,8 +26,11 @@ Student at Computer Engineering And Digital Technology ([CEDT](https://github.co
 - GitHub: [sayhi7562]([#contact](https://github.com/sayhi7562))
 
 
-![sayhi7562 GitHub stats](https://github-readme-stats.vercel.app/api?username=sayhi7562)
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sayhi7562)](https://codeforces.com/profile/sayhi7562)
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayhi7562" width="300" height="200" alt="sayhi7562 GitHub stats" />
+  <a href="https://codeforces.com/profile/sayhi7562">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sayhi7562" width="400" height="200" alt="Codeforces Stats" />
+  </a>
+</div>
 
 don't clike [it](https://cdn.discordapp.com/attachments/1263741140427997210/1276438118500667392/dae.png?ex=66c98722&is=66c835a2&hm=5449148171ae4319f883676f23164d2d76b835f36fc277e76a9907e6321d7529&)
