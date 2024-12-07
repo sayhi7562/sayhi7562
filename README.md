@@ -32,6 +32,7 @@
 
 - GitHub: [sayhi7562](https://github.com/sayhi7562)
 - Linkedin: [sayhi7562](https://www.linkedin.com/in/sayhi7562)
+- Email: [sayhi7562@gmail.com](mailto:sayhi7562@gmail.com)
   
 
 
