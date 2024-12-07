@@ -17,7 +17,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,discord,ps,python,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,discord,ps,python,arduino,html,css)](https://skillicons.dev)
 
 
 
