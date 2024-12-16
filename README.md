@@ -24,7 +24,7 @@
 ## My Interest
 - Robotics
 - Programming
-- Data science
+- Data Science
 - AI
 - And more :)
 
